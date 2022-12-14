@@ -3,7 +3,7 @@
 Jogo de adivinhar a palavra feito em React.
 
 
-Site em funcionamento: projeto-secret-word-react-jx6dixxcg-htamagnus.vercel.app
+Site publicado em funcionamento: projeto-secret-word-react-jx6dixxcg-htamagnus.vercel.app
 
 
 

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Inter;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images5.alphacoders.com/339/339227.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #DCDCDC;
+}
+
+button {
+    background: #265076;
+    color: #FFF;
+    padding: 0 45px;
+    border: 2px solid #FFF;
+    border-radius: 10px;
+    height: 42px;
+    font-size: 1.0em;
+    cursor: pointer;
+    transition: .4s;
+}
+
+button:hover {
+    background-color: #031730;
+}
+
+@font-face {
+    font-family:"HarryPotterFont";
+    src: local("HarryPotterFont"),
+    url("./assets/Fonts/HarryPotterFont.TTF") format("truetype");
+    font-weight:500;
+    font-display: swap;
+}
